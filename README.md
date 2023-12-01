@@ -1,2 +1,2 @@
-# genius-homework-1
+genius-homework-1
 Cайт для косметологічної клініки Beaty Zone
